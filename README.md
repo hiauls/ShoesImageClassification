@@ -1,7 +1,7 @@
 # **Image Classification on Adidas and Nike Shoes Dataset using Convolutional Neural Network**
 
 ## About Project
-<sub>Hello everyone, here we are making a machine learning project with the title Image Classification on Adidas and Nike Shoes Dataset using Convolutional Neural Network. This research uses the existing library in python. This project will run for six months. We realize that this project is not perfect, so we hope that readers can provide constructive criticism or suggestions for our research. Thank you ☺️ </sub>
+<sup>Hello everyone, here we are making a machine learning project with the title Image Classification on Adidas and Nike Shoes Dataset using Convolutional Neural Network. This research uses the existing library in python. This project will run for six months. We realize that this project is not perfect, so we hope that readers can provide constructive criticism or suggestions for our research. Thank you ☺️ </sup>
 
 ## Details The Project
 ***Title :***
